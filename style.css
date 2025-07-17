@@ -1,0 +1,52 @@
+h1{
+    color: purple;
+    text-align: center;
+    font-size: 70px;
+    border: black;
+    border-style: ridge;
+    border: auto;
+}
+   
+#header1{
+    color:darkblue;
+    font-size: xx-large;
+    border:black;
+    border-style: ridge;
+    border:auto;
+}
+
+h2 {
+    text-align: center;
+    margin : 1px 2px 4px 5px;
+    border-width: thick;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+#header1 {
+    text-align: left;
+}
+
+.parent h1{
+       color:blue;
+}
+
+p{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: red;
+}
+
+.next{
+    display: grid;
+    border: black;
+    width: 50%;
+    height: 50%;
+    margin:auto;
+   
+}
+
+button{
+    color: crimson;
+}
