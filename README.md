@@ -9,7 +9,6 @@ Welcome to the official website of *Punjabi Tadka, a fictional restaurant create
 - Price list in tabular format
 - Promotional alert banner
 - Buttons linking to location and table booking pages
-- 
 ## 🔧 Technologies Used
 
 - HTML5
