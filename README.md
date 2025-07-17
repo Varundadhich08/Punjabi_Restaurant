@@ -41,7 +41,7 @@ punjabi-tadka-restaurant/
 - devloped by Varun Dadhich
 
 ## ✨ Live Demo 
-👉 [Live Preview]
+👉 [Live Preview]( https://varundadhich08.github.io/Punjabi_Restaurant/)
 
 ## 📬 Contact
 
